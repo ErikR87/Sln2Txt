@@ -1,6 +1,7 @@
 # Sln2Txt
 
 This tool analyzes the content of all C# files in a given Visual Studio Solution (.sln), excluding those in "bin" and "obj" directories. It outputs the path and content of each file to an output text file.
+It can be used to submit your Solution as single file to GPT 4 (code interpreter)
 
 ## Usage
 
